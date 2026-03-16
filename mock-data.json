@@ -1,0 +1,2094 @@
+[
+  {
+    "id": "test-audit-zomato-1773637590469",
+    "date": "2026-03-16",
+    "description": "Zomato - Audit Test Dinner",
+    "amount": -2500,
+    "category": "Food & Drink",
+    "account": "HDFC Bank Credit Card",
+    "tags": [
+      "audit-test",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_salary_2026_3",
+    "date": "2026-03-01",
+    "description": "Salary Credit",
+    "amount": 82918.3445664926,
+    "category": "Income",
+    "account": "ICICI Bank Savings",
+    "tags": [
+      "income"
+    ]
+  },
+  {
+    "id": "tx_rent_2026_3",
+    "date": "2026-03-02",
+    "description": "Monthly Rent Payment",
+    "amount": -25000,
+    "category": "Housing",
+    "account": "ICICI Bank Savings",
+    "tags": [
+      "fixed-cost"
+    ]
+  },
+  {
+    "id": "tx_food_2026_3_0",
+    "date": "2026-03-18",
+    "description": "Blinkit",
+    "amount": -897.6363667233627,
+    "category": "Food & Drink",
+    "account": "HDFC Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2026_3_1",
+    "date": "2026-03-12",
+    "description": "Zepto",
+    "amount": -569.0803467203899,
+    "category": "Food & Drink",
+    "account": "Axis Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2026_3_2",
+    "date": "2026-03-04",
+    "description": "Starbucks",
+    "amount": -428.7912871492496,
+    "category": "Food & Drink",
+    "account": "HDFC Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2026_3_3",
+    "date": "2026-03-26",
+    "description": "Starbucks",
+    "amount": -983.4928849332039,
+    "category": "Food & Drink",
+    "account": "HDFC Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2026_3_4",
+    "date": "2026-03-04",
+    "description": "Zomato",
+    "amount": -458.70495566516087,
+    "category": "Food & Drink",
+    "account": "ICICI Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2026_3_5",
+    "date": "2026-03-09",
+    "description": "Swiggy",
+    "amount": -543.3210679867532,
+    "category": "Food & Drink",
+    "account": "HDFC Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2026_3_6",
+    "date": "2026-03-07",
+    "description": "Blinkit",
+    "amount": -548.682093234795,
+    "category": "Food & Drink",
+    "account": "Axis Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2026_3_7",
+    "date": "2026-03-22",
+    "description": "Zomato",
+    "amount": -849.2868868772456,
+    "category": "Food & Drink",
+    "account": "Axis Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2026_3_8",
+    "date": "2026-03-18",
+    "description": "Starbucks",
+    "amount": -681.3264328329055,
+    "category": "Food & Drink",
+    "account": "Axis Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2026_3_9",
+    "date": "2026-03-14",
+    "description": "Starbucks",
+    "amount": -706.8962513312729,
+    "category": "Food & Drink",
+    "account": "HDFC Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2026_3_10",
+    "date": "2026-03-19",
+    "description": "Zepto",
+    "amount": -1066.1693299842386,
+    "category": "Food & Drink",
+    "account": "ICICI Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2026_3_11",
+    "date": "2026-03-14",
+    "description": "Starbucks",
+    "amount": -701.9854972958278,
+    "category": "Food & Drink",
+    "account": "HDFC Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_salary_2026_2",
+    "date": "2026-02-01",
+    "description": "Salary Credit",
+    "amount": 86629.05058144235,
+    "category": "Income",
+    "account": "ICICI Bank Savings",
+    "tags": [
+      "income"
+    ]
+  },
+  {
+    "id": "tx_rent_2026_2",
+    "date": "2026-02-02",
+    "description": "Monthly Rent Payment",
+    "amount": -25000,
+    "category": "Housing",
+    "account": "ICICI Bank Savings",
+    "tags": [
+      "fixed-cost"
+    ]
+  },
+  {
+    "id": "tx_food_2026_2_0",
+    "date": "2026-02-14",
+    "description": "Zomato",
+    "amount": -439.27777918782095,
+    "category": "Food & Drink",
+    "account": "Axis Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2026_2_1",
+    "date": "2026-02-09",
+    "description": "Zepto",
+    "amount": -706.8670792802149,
+    "category": "Food & Drink",
+    "account": "ICICI Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2026_2_2",
+    "date": "2026-02-02",
+    "description": "Swiggy",
+    "amount": -511.62054068266707,
+    "category": "Food & Drink",
+    "account": "Axis Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2026_2_3",
+    "date": "2026-02-27",
+    "description": "Blinkit",
+    "amount": -373.5087396688946,
+    "category": "Food & Drink",
+    "account": "Axis Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2026_2_4",
+    "date": "2026-02-12",
+    "description": "Zomato",
+    "amount": -915.9588229437771,
+    "category": "Food & Drink",
+    "account": "ICICI Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2026_2_5",
+    "date": "2026-02-15",
+    "description": "Zepto",
+    "amount": -773.0904587898057,
+    "category": "Food & Drink",
+    "account": "HDFC Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2026_2_6",
+    "date": "2026-02-25",
+    "description": "Starbucks",
+    "amount": -725.5163547080361,
+    "category": "Food & Drink",
+    "account": "Axis Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2026_2_7",
+    "date": "2026-02-02",
+    "description": "Zepto",
+    "amount": -361.0003256172054,
+    "category": "Food & Drink",
+    "account": "ICICI Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2026_2_8",
+    "date": "2026-02-16",
+    "description": "Swiggy",
+    "amount": -747.5930743187516,
+    "category": "Food & Drink",
+    "account": "HDFC Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2026_2_9",
+    "date": "2026-02-19",
+    "description": "Blinkit",
+    "amount": -767.5936436838931,
+    "category": "Food & Drink",
+    "account": "ICICI Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2026_2_10",
+    "date": "2026-02-15",
+    "description": "Swiggy",
+    "amount": -568.0927179182934,
+    "category": "Food & Drink",
+    "account": "Axis Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2026_2_11",
+    "date": "2026-02-21",
+    "description": "Starbucks",
+    "amount": -830.7125914786179,
+    "category": "Food & Drink",
+    "account": "ICICI Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_salary_2026_1",
+    "date": "2026-01-01",
+    "description": "Salary Credit",
+    "amount": 83580.7247309857,
+    "category": "Income",
+    "account": "ICICI Bank Savings",
+    "tags": [
+      "income"
+    ]
+  },
+  {
+    "id": "tx_rent_2026_1",
+    "date": "2026-01-02",
+    "description": "Monthly Rent Payment",
+    "amount": -25000,
+    "category": "Housing",
+    "account": "ICICI Bank Savings",
+    "tags": [
+      "fixed-cost"
+    ]
+  },
+  {
+    "id": "tx_food_2026_1_0",
+    "date": "2026-01-16",
+    "description": "Blinkit",
+    "amount": -1187.460581969285,
+    "category": "Food & Drink",
+    "account": "Axis Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2026_1_1",
+    "date": "2026-01-11",
+    "description": "Starbucks",
+    "amount": -1138.481509818127,
+    "category": "Food & Drink",
+    "account": "ICICI Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2026_1_2",
+    "date": "2026-01-02",
+    "description": "Swiggy",
+    "amount": -942.8811046032494,
+    "category": "Food & Drink",
+    "account": "ICICI Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2026_1_3",
+    "date": "2026-01-16",
+    "description": "Starbucks",
+    "amount": -1249.1323549510682,
+    "category": "Food & Drink",
+    "account": "HDFC Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2026_1_4",
+    "date": "2026-01-02",
+    "description": "Starbucks",
+    "amount": -711.3659100292622,
+    "category": "Food & Drink",
+    "account": "ICICI Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2026_1_5",
+    "date": "2026-01-10",
+    "description": "Starbucks",
+    "amount": -771.2691516116473,
+    "category": "Food & Drink",
+    "account": "Axis Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2026_1_6",
+    "date": "2026-01-26",
+    "description": "Swiggy",
+    "amount": -370.83730774364386,
+    "category": "Food & Drink",
+    "account": "Axis Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2026_1_7",
+    "date": "2026-01-04",
+    "description": "Swiggy",
+    "amount": -1205.5402846181466,
+    "category": "Food & Drink",
+    "account": "Axis Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2026_1_8",
+    "date": "2026-01-10",
+    "description": "Zepto",
+    "amount": -1217.4219529461361,
+    "category": "Food & Drink",
+    "account": "ICICI Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2026_1_9",
+    "date": "2026-01-14",
+    "description": "Zomato",
+    "amount": -445.08882074240137,
+    "category": "Food & Drink",
+    "account": "Axis Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2026_1_10",
+    "date": "2026-01-12",
+    "description": "Swiggy",
+    "amount": -630.6892178612308,
+    "category": "Food & Drink",
+    "account": "HDFC Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2026_1_11",
+    "date": "2026-01-21",
+    "description": "Swiggy",
+    "amount": -1138.2545614988817,
+    "category": "Food & Drink",
+    "account": "HDFC Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_salary_2025_12",
+    "date": "2025-12-01",
+    "description": "Salary Credit",
+    "amount": 84367.93358918626,
+    "category": "Income",
+    "account": "ICICI Bank Savings",
+    "tags": [
+      "income"
+    ]
+  },
+  {
+    "id": "tx_rent_2025_12",
+    "date": "2025-12-02",
+    "description": "Monthly Rent Payment",
+    "amount": -25000,
+    "category": "Housing",
+    "account": "ICICI Bank Savings",
+    "tags": [
+      "fixed-cost"
+    ]
+  },
+  {
+    "id": "tx_food_2025_12_0",
+    "date": "2025-12-14",
+    "description": "Zomato",
+    "amount": -1286.856961211614,
+    "category": "Food & Drink",
+    "account": "Axis Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2025_12_1",
+    "date": "2025-12-26",
+    "description": "Swiggy",
+    "amount": -674.1541826292734,
+    "category": "Food & Drink",
+    "account": "Axis Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2025_12_2",
+    "date": "2025-12-28",
+    "description": "Blinkit",
+    "amount": -527.0340098985408,
+    "category": "Food & Drink",
+    "account": "Axis Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2025_12_3",
+    "date": "2025-12-02",
+    "description": "Swiggy",
+    "amount": -1129.5929468269408,
+    "category": "Food & Drink",
+    "account": "Axis Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2025_12_4",
+    "date": "2025-12-12",
+    "description": "Starbucks",
+    "amount": -669.2957964981222,
+    "category": "Food & Drink",
+    "account": "Axis Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2025_12_5",
+    "date": "2025-12-25",
+    "description": "Swiggy",
+    "amount": -433.1075997035501,
+    "category": "Food & Drink",
+    "account": "HDFC Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2025_12_6",
+    "date": "2025-12-10",
+    "description": "Zomato",
+    "amount": -790.6709028557152,
+    "category": "Food & Drink",
+    "account": "ICICI Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2025_12_7",
+    "date": "2025-12-07",
+    "description": "Zepto",
+    "amount": -1055.4167844415038,
+    "category": "Food & Drink",
+    "account": "HDFC Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2025_12_8",
+    "date": "2025-12-28",
+    "description": "Blinkit",
+    "amount": -1332.3513303804452,
+    "category": "Food & Drink",
+    "account": "HDFC Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2025_12_9",
+    "date": "2025-12-02",
+    "description": "Blinkit",
+    "amount": -428.0474819186461,
+    "category": "Food & Drink",
+    "account": "HDFC Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2025_12_10",
+    "date": "2025-12-13",
+    "description": "Starbucks",
+    "amount": -613.242632224761,
+    "category": "Food & Drink",
+    "account": "HDFC Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2025_12_11",
+    "date": "2025-12-25",
+    "description": "Zomato",
+    "amount": -904.7850725929362,
+    "category": "Food & Drink",
+    "account": "Axis Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_salary_2025_11",
+    "date": "2025-11-01",
+    "description": "Salary Credit",
+    "amount": 83444.30025679823,
+    "category": "Income",
+    "account": "ICICI Bank Savings",
+    "tags": [
+      "income"
+    ]
+  },
+  {
+    "id": "tx_rent_2025_11",
+    "date": "2025-11-02",
+    "description": "Monthly Rent Payment",
+    "amount": -25000,
+    "category": "Housing",
+    "account": "ICICI Bank Savings",
+    "tags": [
+      "fixed-cost"
+    ]
+  },
+  {
+    "id": "tx_food_2025_11_0",
+    "date": "2025-11-24",
+    "description": "Starbucks",
+    "amount": -1058.8769488155328,
+    "category": "Food & Drink",
+    "account": "HDFC Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2025_11_1",
+    "date": "2025-11-02",
+    "description": "Starbucks",
+    "amount": -567.0426521834801,
+    "category": "Food & Drink",
+    "account": "Axis Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2025_11_2",
+    "date": "2025-11-16",
+    "description": "Blinkit",
+    "amount": -1043.6928689906201,
+    "category": "Food & Drink",
+    "account": "ICICI Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2025_11_3",
+    "date": "2025-11-23",
+    "description": "Zomato",
+    "amount": -1209.8843593009371,
+    "category": "Food & Drink",
+    "account": "HDFC Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2025_11_4",
+    "date": "2025-11-06",
+    "description": "Zepto",
+    "amount": -433.9698570090101,
+    "category": "Food & Drink",
+    "account": "Axis Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2025_11_5",
+    "date": "2025-11-01",
+    "description": "Swiggy",
+    "amount": -1185.7309999754784,
+    "category": "Food & Drink",
+    "account": "ICICI Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2025_11_6",
+    "date": "2025-11-08",
+    "description": "Swiggy",
+    "amount": -1430.6111034164146,
+    "category": "Food & Drink",
+    "account": "ICICI Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2025_11_7",
+    "date": "2025-11-05",
+    "description": "Starbucks",
+    "amount": -1325.3291828659142,
+    "category": "Food & Drink",
+    "account": "ICICI Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2025_11_8",
+    "date": "2025-11-15",
+    "description": "Starbucks",
+    "amount": -484.4875988935079,
+    "category": "Food & Drink",
+    "account": "Axis Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2025_11_9",
+    "date": "2025-11-05",
+    "description": "Blinkit",
+    "amount": -541.7090010400518,
+    "category": "Food & Drink",
+    "account": "HDFC Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2025_11_10",
+    "date": "2025-11-19",
+    "description": "Zepto",
+    "amount": -833.4623430070446,
+    "category": "Food & Drink",
+    "account": "ICICI Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2025_11_11",
+    "date": "2025-11-01",
+    "description": "Starbucks",
+    "amount": -472.2739062489368,
+    "category": "Food & Drink",
+    "account": "Axis Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_fee_2025_11",
+    "date": "2025-11-20",
+    "description": "Late Payment Fee",
+    "amount": -750,
+    "category": "Fees",
+    "account": "HDFC Bank Credit Card",
+    "tags": [
+      "hidden-fee"
+    ]
+  },
+  {
+    "id": "tx_salary_2025_10",
+    "date": "2025-10-01",
+    "description": "Salary Credit",
+    "amount": 85992.63826902701,
+    "category": "Income",
+    "account": "ICICI Bank Savings",
+    "tags": [
+      "income"
+    ]
+  },
+  {
+    "id": "tx_rent_2025_10",
+    "date": "2025-10-02",
+    "description": "Monthly Rent Payment",
+    "amount": -25000,
+    "category": "Housing",
+    "account": "ICICI Bank Savings",
+    "tags": [
+      "fixed-cost"
+    ]
+  },
+  {
+    "id": "tx_food_2025_10_0",
+    "date": "2025-10-18",
+    "description": "Blinkit",
+    "amount": -950.9408305944149,
+    "category": "Food & Drink",
+    "account": "HDFC Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2025_10_1",
+    "date": "2025-10-02",
+    "description": "Starbucks",
+    "amount": -851.6527451989825,
+    "category": "Food & Drink",
+    "account": "Axis Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2025_10_2",
+    "date": "2025-10-04",
+    "description": "Swiggy",
+    "amount": -1434.0320757659276,
+    "category": "Food & Drink",
+    "account": "HDFC Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2025_10_3",
+    "date": "2025-10-03",
+    "description": "Zepto",
+    "amount": -601.9799542475946,
+    "category": "Food & Drink",
+    "account": "HDFC Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2025_10_4",
+    "date": "2025-10-14",
+    "description": "Blinkit",
+    "amount": -995.0454286257248,
+    "category": "Food & Drink",
+    "account": "ICICI Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2025_10_5",
+    "date": "2025-10-10",
+    "description": "Zomato",
+    "amount": -670.4548851370367,
+    "category": "Food & Drink",
+    "account": "ICICI Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2025_10_6",
+    "date": "2025-10-17",
+    "description": "Blinkit",
+    "amount": -1362.86925124751,
+    "category": "Food & Drink",
+    "account": "Axis Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2025_10_7",
+    "date": "2025-10-03",
+    "description": "Blinkit",
+    "amount": -1083.1468328348217,
+    "category": "Food & Drink",
+    "account": "Axis Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2025_10_8",
+    "date": "2025-10-26",
+    "description": "Swiggy",
+    "amount": -1039.4954647992413,
+    "category": "Food & Drink",
+    "account": "HDFC Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2025_10_9",
+    "date": "2025-10-08",
+    "description": "Swiggy",
+    "amount": -1398.4130499790117,
+    "category": "Food & Drink",
+    "account": "Axis Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2025_10_10",
+    "date": "2025-10-02",
+    "description": "Starbucks",
+    "amount": -697.9596048610788,
+    "category": "Food & Drink",
+    "account": "Axis Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2025_10_11",
+    "date": "2025-10-07",
+    "description": "Zomato",
+    "amount": -911.8833086575547,
+    "category": "Food & Drink",
+    "account": "ICICI Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_fee_2025_10",
+    "date": "2025-10-05",
+    "description": "Late Payment Fee",
+    "amount": -750,
+    "category": "Fees",
+    "account": "HDFC Bank Credit Card",
+    "tags": [
+      "hidden-fee"
+    ]
+  },
+  {
+    "id": "tx_salary_2025_9",
+    "date": "2025-09-01",
+    "description": "Salary Credit",
+    "amount": 86355.22280530562,
+    "category": "Income",
+    "account": "ICICI Bank Savings",
+    "tags": [
+      "income"
+    ]
+  },
+  {
+    "id": "tx_rent_2025_9",
+    "date": "2025-09-02",
+    "description": "Monthly Rent Payment",
+    "amount": -25000,
+    "category": "Housing",
+    "account": "ICICI Bank Savings",
+    "tags": [
+      "fixed-cost"
+    ]
+  },
+  {
+    "id": "tx_food_2025_9_0",
+    "date": "2025-09-04",
+    "description": "Zepto",
+    "amount": -1135.343383609126,
+    "category": "Food & Drink",
+    "account": "HDFC Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2025_9_1",
+    "date": "2025-09-04",
+    "description": "Blinkit",
+    "amount": -1087.466729906874,
+    "category": "Food & Drink",
+    "account": "ICICI Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2025_9_2",
+    "date": "2025-09-26",
+    "description": "Swiggy",
+    "amount": -1408.5521222986567,
+    "category": "Food & Drink",
+    "account": "ICICI Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2025_9_3",
+    "date": "2025-09-25",
+    "description": "Swiggy",
+    "amount": -1454.6855904104186,
+    "category": "Food & Drink",
+    "account": "Axis Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2025_9_4",
+    "date": "2025-09-22",
+    "description": "Swiggy",
+    "amount": -1498.8484521571818,
+    "category": "Food & Drink",
+    "account": "HDFC Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2025_9_5",
+    "date": "2025-09-10",
+    "description": "Swiggy",
+    "amount": -1589.620952118275,
+    "category": "Food & Drink",
+    "account": "ICICI Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2025_9_6",
+    "date": "2025-09-16",
+    "description": "Zomato",
+    "amount": -572.2924262357341,
+    "category": "Food & Drink",
+    "account": "HDFC Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2025_9_7",
+    "date": "2025-09-26",
+    "description": "Blinkit",
+    "amount": -1234.4624232678555,
+    "category": "Food & Drink",
+    "account": "Axis Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2025_9_8",
+    "date": "2025-09-06",
+    "description": "Starbucks",
+    "amount": -1622.359108929851,
+    "category": "Food & Drink",
+    "account": "Axis Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2025_9_9",
+    "date": "2025-09-18",
+    "description": "Zomato",
+    "amount": -693.7955741145445,
+    "category": "Food & Drink",
+    "account": "Axis Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2025_9_10",
+    "date": "2025-09-05",
+    "description": "Swiggy",
+    "amount": -952.5212261393119,
+    "category": "Food & Drink",
+    "account": "HDFC Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2025_9_11",
+    "date": "2025-09-04",
+    "description": "Zepto",
+    "amount": -1097.960897754195,
+    "category": "Food & Drink",
+    "account": "ICICI Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_fee_2025_9",
+    "date": "2025-09-18",
+    "description": "Late Payment Fee",
+    "amount": -750,
+    "category": "Fees",
+    "account": "HDFC Bank Credit Card",
+    "tags": [
+      "hidden-fee"
+    ]
+  },
+  {
+    "id": "tx_salary_2025_8",
+    "date": "2025-08-01",
+    "description": "Salary Credit",
+    "amount": 87031.47045798149,
+    "category": "Income",
+    "account": "ICICI Bank Savings",
+    "tags": [
+      "income"
+    ]
+  },
+  {
+    "id": "tx_rent_2025_8",
+    "date": "2025-08-02",
+    "description": "Monthly Rent Payment",
+    "amount": -25000,
+    "category": "Housing",
+    "account": "ICICI Bank Savings",
+    "tags": [
+      "fixed-cost"
+    ]
+  },
+  {
+    "id": "tx_food_2025_8_0",
+    "date": "2025-08-01",
+    "description": "Blinkit",
+    "amount": -1650.0953524802044,
+    "category": "Food & Drink",
+    "account": "HDFC Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2025_8_1",
+    "date": "2025-08-25",
+    "description": "Zepto",
+    "amount": -961.6878767037424,
+    "category": "Food & Drink",
+    "account": "HDFC Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2025_8_2",
+    "date": "2025-08-04",
+    "description": "Zepto",
+    "amount": -838.5543155851543,
+    "category": "Food & Drink",
+    "account": "Axis Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2025_8_3",
+    "date": "2025-08-21",
+    "description": "Blinkit",
+    "amount": -835.0788918703353,
+    "category": "Food & Drink",
+    "account": "ICICI Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2025_8_4",
+    "date": "2025-08-09",
+    "description": "Zomato",
+    "amount": -1422.6045872453155,
+    "category": "Food & Drink",
+    "account": "ICICI Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2025_8_5",
+    "date": "2025-08-03",
+    "description": "Blinkit",
+    "amount": -1550.003161175874,
+    "category": "Food & Drink",
+    "account": "Axis Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2025_8_6",
+    "date": "2025-08-08",
+    "description": "Blinkit",
+    "amount": -1547.7774730660087,
+    "category": "Food & Drink",
+    "account": "HDFC Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2025_8_7",
+    "date": "2025-08-18",
+    "description": "Zomato",
+    "amount": -1552.7279902144144,
+    "category": "Food & Drink",
+    "account": "ICICI Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2025_8_8",
+    "date": "2025-08-05",
+    "description": "Blinkit",
+    "amount": -1743.0812959898751,
+    "category": "Food & Drink",
+    "account": "HDFC Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2025_8_9",
+    "date": "2025-08-28",
+    "description": "Swiggy",
+    "amount": -1070.8019167988964,
+    "category": "Food & Drink",
+    "account": "HDFC Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2025_8_10",
+    "date": "2025-08-01",
+    "description": "Swiggy",
+    "amount": -1622.8550511591638,
+    "category": "Food & Drink",
+    "account": "Axis Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2025_8_11",
+    "date": "2025-08-15",
+    "description": "Blinkit",
+    "amount": -1693.8888097505692,
+    "category": "Food & Drink",
+    "account": "Axis Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_fee_2025_8",
+    "date": "2025-08-11",
+    "description": "Late Payment Fee",
+    "amount": -750,
+    "category": "Fees",
+    "account": "HDFC Bank Credit Card",
+    "tags": [
+      "hidden-fee"
+    ]
+  },
+  {
+    "id": "tx_salary_2025_7",
+    "date": "2025-07-01",
+    "description": "Salary Credit",
+    "amount": 86955.48313739923,
+    "category": "Income",
+    "account": "ICICI Bank Savings",
+    "tags": [
+      "income"
+    ]
+  },
+  {
+    "id": "tx_rent_2025_7",
+    "date": "2025-07-02",
+    "description": "Monthly Rent Payment",
+    "amount": -25000,
+    "category": "Housing",
+    "account": "ICICI Bank Savings",
+    "tags": [
+      "fixed-cost"
+    ]
+  },
+  {
+    "id": "tx_food_2025_7_0",
+    "date": "2025-07-11",
+    "description": "Zepto",
+    "amount": -1565.052255955551,
+    "category": "Food & Drink",
+    "account": "ICICI Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2025_7_1",
+    "date": "2025-07-23",
+    "description": "Starbucks",
+    "amount": -663.8921866755402,
+    "category": "Food & Drink",
+    "account": "Axis Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2025_7_2",
+    "date": "2025-07-07",
+    "description": "Zomato",
+    "amount": -906.0650434559541,
+    "category": "Food & Drink",
+    "account": "ICICI Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2025_7_3",
+    "date": "2025-07-20",
+    "description": "Zomato",
+    "amount": -1618.9823994022252,
+    "category": "Food & Drink",
+    "account": "HDFC Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2025_7_4",
+    "date": "2025-07-07",
+    "description": "Starbucks",
+    "amount": -1522.4949660916054,
+    "category": "Food & Drink",
+    "account": "HDFC Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2025_7_5",
+    "date": "2025-07-03",
+    "description": "Blinkit",
+    "amount": -1375.5305315275614,
+    "category": "Food & Drink",
+    "account": "ICICI Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2025_7_6",
+    "date": "2025-07-22",
+    "description": "Zomato",
+    "amount": -1274.1176669391257,
+    "category": "Food & Drink",
+    "account": "Axis Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2025_7_7",
+    "date": "2025-07-26",
+    "description": "Starbucks",
+    "amount": -952.9671053110447,
+    "category": "Food & Drink",
+    "account": "HDFC Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2025_7_8",
+    "date": "2025-07-19",
+    "description": "Zomato",
+    "amount": -1607.8676721238212,
+    "category": "Food & Drink",
+    "account": "HDFC Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2025_7_9",
+    "date": "2025-07-24",
+    "description": "Zepto",
+    "amount": -583.0358816406136,
+    "category": "Food & Drink",
+    "account": "HDFC Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2025_7_10",
+    "date": "2025-07-02",
+    "description": "Blinkit",
+    "amount": -918.0160233665874,
+    "category": "Food & Drink",
+    "account": "HDFC Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2025_7_11",
+    "date": "2025-07-03",
+    "description": "Swiggy",
+    "amount": -1776.5113466184207,
+    "category": "Food & Drink",
+    "account": "Axis Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_fee_2025_7",
+    "date": "2025-07-08",
+    "description": "Late Payment Fee",
+    "amount": -750,
+    "category": "Fees",
+    "account": "HDFC Bank Credit Card",
+    "tags": [
+      "hidden-fee"
+    ]
+  },
+  {
+    "id": "tx_salary_2025_6",
+    "date": "2025-06-01",
+    "description": "Salary Credit",
+    "amount": 86129.85622467955,
+    "category": "Income",
+    "account": "ICICI Bank Savings",
+    "tags": [
+      "income"
+    ]
+  },
+  {
+    "id": "tx_rent_2025_6",
+    "date": "2025-06-02",
+    "description": "Monthly Rent Payment",
+    "amount": -25000,
+    "category": "Housing",
+    "account": "ICICI Bank Savings",
+    "tags": [
+      "fixed-cost"
+    ]
+  },
+  {
+    "id": "tx_food_2025_6_0",
+    "date": "2025-06-23",
+    "description": "Starbucks",
+    "amount": -1409.0101474329922,
+    "category": "Food & Drink",
+    "account": "HDFC Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2025_6_1",
+    "date": "2025-06-13",
+    "description": "Swiggy",
+    "amount": -947.7931894813564,
+    "category": "Food & Drink",
+    "account": "HDFC Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2025_6_2",
+    "date": "2025-06-02",
+    "description": "Zomato",
+    "amount": -993.6516053887759,
+    "category": "Food & Drink",
+    "account": "Axis Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2025_6_3",
+    "date": "2025-06-05",
+    "description": "Starbucks",
+    "amount": -1535.3610854718488,
+    "category": "Food & Drink",
+    "account": "Axis Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2025_6_4",
+    "date": "2025-06-26",
+    "description": "Swiggy",
+    "amount": -908.5878051523248,
+    "category": "Food & Drink",
+    "account": "HDFC Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2025_6_5",
+    "date": "2025-06-16",
+    "description": "Starbucks",
+    "amount": -611.6172041321183,
+    "category": "Food & Drink",
+    "account": "HDFC Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2025_6_6",
+    "date": "2025-06-10",
+    "description": "Zomato",
+    "amount": -713.8342262351953,
+    "category": "Food & Drink",
+    "account": "Axis Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2025_6_7",
+    "date": "2025-06-04",
+    "description": "Zomato",
+    "amount": -1680.768515144272,
+    "category": "Food & Drink",
+    "account": "ICICI Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2025_6_8",
+    "date": "2025-06-04",
+    "description": "Starbucks",
+    "amount": -1437.6454185278885,
+    "category": "Food & Drink",
+    "account": "ICICI Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2025_6_9",
+    "date": "2025-06-08",
+    "description": "Blinkit",
+    "amount": -1471.5246651019074,
+    "category": "Food & Drink",
+    "account": "HDFC Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2025_6_10",
+    "date": "2025-06-13",
+    "description": "Zepto",
+    "amount": -1584.3373293694722,
+    "category": "Food & Drink",
+    "account": "HDFC Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2025_6_11",
+    "date": "2025-06-15",
+    "description": "Starbucks",
+    "amount": -1183.7347801911335,
+    "category": "Food & Drink",
+    "account": "Axis Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_fee_2025_6",
+    "date": "2025-06-15",
+    "description": "Late Payment Fee",
+    "amount": -750,
+    "category": "Fees",
+    "account": "HDFC Bank Credit Card",
+    "tags": [
+      "hidden-fee"
+    ]
+  },
+  {
+    "id": "tx_salary_2025_5",
+    "date": "2025-05-01",
+    "description": "Salary Credit",
+    "amount": 87164.00181493374,
+    "category": "Income",
+    "account": "ICICI Bank Savings",
+    "tags": [
+      "income"
+    ]
+  },
+  {
+    "id": "tx_rent_2025_5",
+    "date": "2025-05-02",
+    "description": "Monthly Rent Payment",
+    "amount": -25000,
+    "category": "Housing",
+    "account": "ICICI Bank Savings",
+    "tags": [
+      "fixed-cost"
+    ]
+  },
+  {
+    "id": "tx_food_2025_5_0",
+    "date": "2025-05-07",
+    "description": "Swiggy",
+    "amount": -816.3433978528747,
+    "category": "Food & Drink",
+    "account": "ICICI Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2025_5_1",
+    "date": "2025-05-08",
+    "description": "Swiggy",
+    "amount": -1298.2835904245135,
+    "category": "Food & Drink",
+    "account": "ICICI Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2025_5_2",
+    "date": "2025-05-03",
+    "description": "Blinkit",
+    "amount": -1462.373389645737,
+    "category": "Food & Drink",
+    "account": "ICICI Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2025_5_3",
+    "date": "2025-05-08",
+    "description": "Zepto",
+    "amount": -1514.5393629929877,
+    "category": "Food & Drink",
+    "account": "HDFC Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2025_5_4",
+    "date": "2025-05-24",
+    "description": "Swiggy",
+    "amount": -896.4322399122814,
+    "category": "Food & Drink",
+    "account": "Axis Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2025_5_5",
+    "date": "2025-05-16",
+    "description": "Blinkit",
+    "amount": -1323.8474585491153,
+    "category": "Food & Drink",
+    "account": "Axis Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2025_5_6",
+    "date": "2025-05-14",
+    "description": "Swiggy",
+    "amount": -1688.8670948803317,
+    "category": "Food & Drink",
+    "account": "Axis Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2025_5_7",
+    "date": "2025-05-10",
+    "description": "Starbucks",
+    "amount": -1449.8417501781767,
+    "category": "Food & Drink",
+    "account": "ICICI Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2025_5_8",
+    "date": "2025-05-25",
+    "description": "Blinkit",
+    "amount": -719.8002491789559,
+    "category": "Food & Drink",
+    "account": "ICICI Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2025_5_9",
+    "date": "2025-05-28",
+    "description": "Starbucks",
+    "amount": -1572.9442515214864,
+    "category": "Food & Drink",
+    "account": "Axis Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2025_5_10",
+    "date": "2025-05-07",
+    "description": "Swiggy",
+    "amount": -2152.398782242494,
+    "category": "Food & Drink",
+    "account": "Axis Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2025_5_11",
+    "date": "2025-05-28",
+    "description": "Blinkit",
+    "amount": -1989.9142378581876,
+    "category": "Food & Drink",
+    "account": "ICICI Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_fee_2025_5",
+    "date": "2025-05-14",
+    "description": "Late Payment Fee",
+    "amount": -750,
+    "category": "Fees",
+    "account": "HDFC Bank Credit Card",
+    "tags": [
+      "hidden-fee"
+    ]
+  },
+  {
+    "id": "tx_salary_2025_4",
+    "date": "2025-04-01",
+    "description": "Salary Credit",
+    "amount": 84257.71220459953,
+    "category": "Income",
+    "account": "ICICI Bank Savings",
+    "tags": [
+      "income"
+    ]
+  },
+  {
+    "id": "tx_rent_2025_4",
+    "date": "2025-04-02",
+    "description": "Monthly Rent Payment",
+    "amount": -25000,
+    "category": "Housing",
+    "account": "ICICI Bank Savings",
+    "tags": [
+      "fixed-cost"
+    ]
+  },
+  {
+    "id": "tx_food_2025_4_0",
+    "date": "2025-04-24",
+    "description": "Blinkit",
+    "amount": -1387.246186579772,
+    "category": "Food & Drink",
+    "account": "HDFC Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2025_4_1",
+    "date": "2025-04-17",
+    "description": "Starbucks",
+    "amount": -960.9247696547932,
+    "category": "Food & Drink",
+    "account": "ICICI Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2025_4_2",
+    "date": "2025-04-06",
+    "description": "Blinkit",
+    "amount": -941.63837996202,
+    "category": "Food & Drink",
+    "account": "HDFC Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2025_4_3",
+    "date": "2025-04-02",
+    "description": "Blinkit",
+    "amount": -1022.6705189604772,
+    "category": "Food & Drink",
+    "account": "ICICI Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2025_4_4",
+    "date": "2025-04-23",
+    "description": "Zepto",
+    "amount": -1465.2498420898712,
+    "category": "Food & Drink",
+    "account": "HDFC Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2025_4_5",
+    "date": "2025-04-04",
+    "description": "Zepto",
+    "amount": -2196.033284358025,
+    "category": "Food & Drink",
+    "account": "Axis Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2025_4_6",
+    "date": "2025-04-03",
+    "description": "Blinkit",
+    "amount": -1170.2017804493846,
+    "category": "Food & Drink",
+    "account": "ICICI Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2025_4_7",
+    "date": "2025-04-22",
+    "description": "Blinkit",
+    "amount": -1402.1131796048655,
+    "category": "Food & Drink",
+    "account": "HDFC Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2025_4_8",
+    "date": "2025-04-16",
+    "description": "Blinkit",
+    "amount": -2154.559166061969,
+    "category": "Food & Drink",
+    "account": "Axis Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2025_4_9",
+    "date": "2025-04-24",
+    "description": "Blinkit",
+    "amount": -701.5463226695713,
+    "category": "Food & Drink",
+    "account": "ICICI Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2025_4_10",
+    "date": "2025-04-03",
+    "description": "Zepto",
+    "amount": -2060.6729047722665,
+    "category": "Food & Drink",
+    "account": "Axis Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_food_2025_4_11",
+    "date": "2025-04-20",
+    "description": "Zomato",
+    "amount": -1103.2524184264698,
+    "category": "Food & Drink",
+    "account": "HDFC Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "discretionary"
+    ]
+  },
+  {
+    "id": "tx_fee_2025_4",
+    "date": "2025-04-02",
+    "description": "Late Payment Fee",
+    "amount": -750,
+    "category": "Fees",
+    "account": "HDFC Bank Credit Card",
+    "tags": [
+      "hidden-fee"
+    ]
+  }
+]
