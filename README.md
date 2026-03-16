@@ -45,12 +45,12 @@ To run the Financial Co-Pilot locally, ensure you have the following environment
 
 ```bash
 # Google Cloud Configuration
-GOOGLE_CLOUD_PROJECT="project-22d06533-7f05-4359-bb0"
-GOOGLE_CLOUD_LOCATION="us-east5"
+GOOGLE_CLOUD_PROJECT=""
+GOOGLE_CLOUD_LOCATION=""
 
 # Authentication
 NEXTAUTH_SECRET="your-nextauth-secret"
-NEXTAUTH_URL="http://localhost:3000"
+NEXTAUTH_URL=""
 ```
 
 1. Install dependencies: `npm install`
