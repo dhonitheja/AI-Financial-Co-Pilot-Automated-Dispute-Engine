@@ -73,6 +73,22 @@ export async function POST(req: Request) {
       });
     }
 
+    // Check for Zepto breach (for demo.png)
+    const zeptoAlert = alerts.find(a => a.merchant === "Zepto");
+    const zeptoSpend = transactions
+      .filter(t => t.description.toLowerCase().includes("zepto"))
+      .reduce((sum, t) => sum + Math.abs(t.amount), 0);
+    
+    if (zeptoAlert && zeptoSpend >= zeptoAlert.limit) {
+      actionableSavings.push({
+        "title": "Critical Alert: Zepto Limit Exceeded",
+        "description": `Your Zepto spend (₹${zeptoSpend.toLocaleString()}) has breached your ₹${zeptoAlert.limit.toLocaleString()} limit. Extreme velocity in quick-commerce detected.`,
+        "amount": Math.round(zeptoSpend - zeptoAlert.limit),
+        "impact": "High",
+        "type": "critical"
+      });
+    }
+
     // Add other mocks to keep the feed populated
     actionableSavings.push({
       "title": "Projected Breach: Amazon",

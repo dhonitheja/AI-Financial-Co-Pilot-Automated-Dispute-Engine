@@ -1,5 +1,172 @@
 [
   {
+    "id": "math-audit-late-fee-1774046876355",
+    "date": "2026-03-20",
+    "description": "CREDIT CARD FINANCE CHARGES - LATE FEE",
+    "amount": -500,
+    "category": "Fees",
+    "account": "HDFC Bank Credit Card",
+    "tags": [
+      "math-verification"
+    ]
+  },
+  {
+    "id": "dirty-late-fee-1774046004226",
+    "date": "2026-03-20",
+    "description": "CREDIT CARD LATE FEE - OVERDUE",
+    "amount": -750,
+    "category": "Fees",
+    "account": "HDFC Bank Credit Card",
+    "tags": [
+      "hidden-fee",
+      "penalty"
+    ]
+  },
+  {
+    "id": "dirty-cash-advance-1774046004233",
+    "date": "2026-03-20",
+    "description": "CASH ADVANCE WITHDRAWAL (TRANS FEE: 3.5%)",
+    "amount": -5000,
+    "category": "Cash Withdrawal",
+    "account": "Axis Bank Credit Card",
+    "tags": [
+      "hidden-fee",
+      "cash-leak"
+    ]
+  },
+  {
+    "id": "dirty-zepto-1-1774046004233",
+    "date": "2026-03-20",
+    "description": "Zepto - Grocery Flash",
+    "amount": -640,
+    "category": "Food & Drink",
+    "account": "ICICI Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "convenience"
+    ]
+  },
+  {
+    "id": "dirty-zepto-2-1774046004233",
+    "date": "2026-03-20",
+    "description": "Zepto - Grocery Flash",
+    "amount": -640,
+    "category": "Food & Drink",
+    "account": "ICICI Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "convenience"
+    ]
+  },
+  {
+    "id": "dirty-zepto-3-1774046004233",
+    "date": "2026-03-19",
+    "description": "Zepto - Grocery Flash",
+    "amount": -640,
+    "category": "Food & Drink",
+    "account": "ICICI Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "convenience"
+    ]
+  },
+  {
+    "id": "dirty-zepto-4-1774046004233",
+    "date": "2026-03-19",
+    "description": "Zepto - Grocery Flash",
+    "amount": -640,
+    "category": "Food & Drink",
+    "account": "ICICI Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "convenience"
+    ]
+  },
+  {
+    "id": "dirty-zepto-5-1774046004233",
+    "date": "2026-03-18",
+    "description": "Zepto - Grocery Flash",
+    "amount": -640,
+    "category": "Food & Drink",
+    "account": "ICICI Bank Credit Card",
+    "tags": [
+      "lifestyle",
+      "convenience"
+    ]
+  },
+  {
+    "id": "messy-late-fee-1774044371274",
+    "date": "2026-03-20",
+    "description": "Credit Card Late Fee - HDFC",
+    "amount": -750,
+    "category": "Fees",
+    "account": "HDFC Bank Credit Card",
+    "tags": [
+      "fee",
+      "penalty"
+    ]
+  },
+  {
+    "id": "messy-cash-advance-1774044371287",
+    "date": "2026-03-19",
+    "description": "ATM Cash Advance (3.5% Fee applicable)",
+    "amount": -5000,
+    "category": "Cash Withdrawal",
+    "account": "Axis Bank Credit Card",
+    "tags": [
+      "cash",
+      "advance"
+    ]
+  },
+  {
+    "id": "messy-zepto-1-1774044371287",
+    "date": "2026-03-19",
+    "description": "Zepto - Quick Commerce",
+    "amount": -1050,
+    "category": "Food & Drink",
+    "account": "ICICI Bank Credit Card",
+    "tags": [
+      "convenience",
+      "zepto"
+    ]
+  },
+  {
+    "id": "messy-zepto-2-1774044371287",
+    "date": "2026-03-18",
+    "description": "Zepto - Quick Commerce",
+    "amount": -1050,
+    "category": "Food & Drink",
+    "account": "ICICI Bank Credit Card",
+    "tags": [
+      "convenience",
+      "zepto"
+    ]
+  },
+  {
+    "id": "messy-zepto-3-1774044371287",
+    "date": "2026-03-17",
+    "description": "Zepto - Quick Commerce",
+    "amount": -1050,
+    "category": "Food & Drink",
+    "account": "ICICI Bank Credit Card",
+    "tags": [
+      "convenience",
+      "zepto"
+    ]
+  },
+  {
+    "id": "messy-zepto-4-1774044371287",
+    "date": "2026-03-16",
+    "description": "Zepto - Quick Commerce",
+    "amount": -1050,
+    "category": "Food & Drink",
+    "account": "ICICI Bank Credit Card",
+    "tags": [
+      "convenience",
+      "zepto"
+    ]
+  },
+  {
     "id": "test-audit-zomato-1773637590469",
     "date": "2026-03-16",
     "description": "Zomato - Audit Test Dinner",

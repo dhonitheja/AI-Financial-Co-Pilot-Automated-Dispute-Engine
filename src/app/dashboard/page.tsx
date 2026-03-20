@@ -41,6 +41,8 @@ import { MonthlyReportModal } from "@/components/MonthlyReportModal";
 import { TrendDashboard } from "@/components/TrendDashboard";
 import { AccountLinkingModal } from "@/components/AccountLinkingModal";
 import { FileText, Calendar } from "lucide-react";
+import { ForensicLoading } from "@/components/ForensicLoading";
+
 
 
 
@@ -52,6 +54,8 @@ export default function Dashboard() {
   const [transactions, setTransactions] = useState<any[]>([]);
   const [analysis, setAnalysis] = useState<any>(null);
   const [isAnalyzing, setIsAnalyzing] = useState(false);
+  const [forensicInsight, setForensicInsight] = useState<string | null>(null);
+
   
   const [alerts, setAlerts] = useState<AlertLimit[]>([
     { merchant: "Swiggy", limit: 3000, current: 0 },
@@ -115,20 +119,48 @@ export default function Dashboard() {
 
   const runAnalysis = async () => {
     setIsAnalyzing(true);
+    setForensicInsight(null);
     try {
-      const response = await fetch('/api/analyze', {
+      // 1. Run the standard analysis for the dashboard cards
+      const analyzeRes = await fetch('/api/analyze', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ transactions, alerts })
       });
-      const data = await response.json();
-      setAnalysis(data);
+      const analyzeData = await analyzeRes.json();
+      setAnalysis(analyzeData);
+
+      // 2. Run the deep forensic audit for the loading experience
+      // Add an artificial delay to ensure the UX "Scanning" state is visible for at least 7 seconds
+      const startTime = Date.now();
+      const auditRes = await fetch('/api/audit', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ 
+          transactions, 
+          merchantLimits: alerts, 
+          historicalContext: { last6MoAverage: 14500, last1YrAverage: 14000 } 
+        })
+      });
+      const auditData = await auditRes.json();
+      
+      const elapsedTime = Date.now() - startTime;
+      const minLoadingTime = 7000;
+      if (elapsedTime < minLoadingTime) {
+        await new Promise(resolve => setTimeout(resolve, minLoadingTime - elapsedTime));
+      }
+      
+      setForensicInsight(auditData.forensicInsight);
+      
+      // If forensic insight is received, move to forensic tab or show it
+      setActiveTab("forensic");
     } catch (error) {
-      console.error("Analysis failed", error);
+      console.error("Analysis/Audit failed", error);
     } finally {
       setIsAnalyzing(false);
     }
   };
+
 
   const generateMonthlyReport = async () => {
     setReportModalOpen(true);
@@ -371,6 +403,47 @@ export default function Dashboard() {
             <ConsentManager consents={consents} onRevoke={revokeConsent} />
           </div>
         )}
+
+        {/* Forensic Audit Tab */}
+        {activeTab === "forensic" && (
+          <div className="p-8 max-w-4xl mx-auto space-y-8 animate-in fade-in slide-in-from-bottom-8 duration-700">
+             <div className="flex items-center justify-between">
+                <div className="space-y-1">
+                  <h1 className="text-4xl font-black tracking-tighter text-zinc-900 dark:text-zinc-100 italic">Forensic Intelligence Report</h1>
+                  <p className="text-sm font-bold text-zinc-400 italic font-mono uppercase tracking-[0.2em] flex items-center gap-2">
+                    <ShieldCheck className="h-4 w-4 text-emerald-500" /> PRODUCED BY CLAUDE-3.5-SONNET-V2
+                  </p>
+                </div>
+                <Button 
+                  onClick={() => setActiveTab("dashboard")} 
+                  variant="outline" 
+                  className="rounded-full font-black italic text-xs border-zinc-800"
+                >
+                  Return to Dashboard
+                </Button>
+             </div>
+
+             <Card className="bg-white dark:bg-zinc-900 border-zinc-200 dark:border-zinc-800 shadow-2xl overflow-hidden relative border-t-indigo-600 border-t-4">
+                <CardContent className="p-10 prose prose-zinc dark:prose-invert max-w-none font-sans italic">
+                   {/* We might need a markdown renderer or just display the text properly */}
+                   <div className="whitespace-pre-wrap leading-relaxed text-zinc-300">
+                      {forensicInsight}
+                   </div>
+                </CardContent>
+             </Card>
+
+             <div className="flex justify-center gap-4">
+                <Button className="bg-indigo-600 hover:bg-indigo-700 text-white font-black italic rounded-full h-12 px-10 shadow-xl shadow-indigo-600/20 translate-y-0 active:translate-y-1 transition-all">
+                   Dispute All Detected Leaks
+                </Button>
+                <Button variant="outline" className="border-zinc-800 dark:bg-zinc-950 font-black italic rounded-full h-12 px-10">
+                   Generate PDF Summary
+                </Button>
+             </div>
+          </div>
+        )}
+
+        {isAnalyzing && <ForensicLoading />}
 
         <MonthlyReportModal 
           isOpen={reportModalOpen} 
