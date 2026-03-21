@@ -17,10 +17,11 @@
 
 ## 🛠️ Core Features (The "Why it Matters")
 
-- **🔍 Forensic Auditing**: Identifies 36% APR interest traps and hidden fees draining over ₹5,000 annually.
-- **🛡️ Merchant Guardrails**: Proactive velocity tracking for Swiggy, Amazon, and Zepto to prevent "lifestyle creep."
-- **⚖️ Agentic Disputes**: One-tap automated dispute letter generation based on RBI's Fair Practices Code.
-- **📊 Historical MoM Engine**: Deep-dives into 5 years of historical data to provide Month-on-Month comparative insights.
+- **🔍 Forensic Auditing (Advanced Reasoning)**: Powered by a 4-step Chain-of-Thought (CoT) protocol (Data Triage, Math Verification, MoM Variance, and Behavioral Risk) to identify 'Credit Chaos.'
+- **🛡️ Merchant Guardrails (Velocity Check)**: Real-time monitoring of Swiggy, Amazon, and Zepto to detect 'Lifestyle Creep' before breaches occur.
+- **⚡ Dynamic Scanning UI**: A high-fidelity "5-year scan" experience featuring a pulse-logo logo, shimmering progress bars, and a behavioral coaching carousel.
+- **⚖️ Expert Audit Logic**: Provides transparent, mathematical reasoning (e.g., annualizing ₹500 fees to ₹6,000/year projections) to explain AI-driven insights.
+- **📊 Historical MoM Engine**: Deep-dives into 5 years of historical data to provide Month-on-Month comparative insights against 6-month and 1-year averages.
 
 ---
 
