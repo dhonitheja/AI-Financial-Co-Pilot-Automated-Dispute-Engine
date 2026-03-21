@@ -33,10 +33,32 @@
 
 ---
 
-## 📱 Dashboard Demo
+## 📱 Feature Showcase (Visual Walkthrough)
 
-![Alert Dashboard Demo](./demo.png)
-*Figure 1: Real-time Merchant Guardrails triggering a Critical Alert for Zepto spending breaches.*
+### 1. Unified Forensic Dashboard
+The main command center provides a "Transparency Score" and a "Financial Health" audit based on deep transaction analysis.
+![Dashboard Overview](./screenshots/dashboard_main.png)
+
+### 2. Smart Budget Alerts (Merchant Guardrails)
+Real-time monitoring of merchant-specific limits (Swiggy, Zomato, Zepto) with automated "CRITICAL ALERT" triggers for lifestyle creep.
+![Alert Settings](./screenshots/alert_settings.png)
+
+### 3. Forensic Engine Active (The 5-Year Scan)
+A premium AI-loading state that provides behavioral coaching tips while Claude 3.5 Sonnet audits 5 years of historical data.
+![Forensic Loading](./screenshots/forensic_loading.png)
+
+### 4. Expert Audit Logic (Advanced Reasoning)
+Transparent, mathematical audit trails produced by the Advanced Reasoning Framework, annualizing hidden fees and interest traps.
+![Forensic Report](./screenshots/forensic_report.png)
+
+### 5. Account Linking & Privacy Manager
+RBI-sanctioned Account Aggregator (AA) framework integration for secure, consent-based bank statement ingestion.
+![Account Linking](./screenshots/account_linking.png)
+![Consent Manager](./screenshots/consent_manager.png)
+
+### 6. Monthly Wealth Intelligence
+Automated monthly reports summarizing actionable savings, debt health, and overall portfolio audit scores.
+![Monthly Report](./screenshots/monthly_report.png)
 
 ---
 
